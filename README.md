@@ -1,6 +1,6 @@
 # CVE-2017-5638 and CVE-2017-9793
 # S2-045-and-S2-051-Struts-2-in-1
-# (m4ud)
+# Author: (m4ud)
 # Struts pwning tool!
 
 
