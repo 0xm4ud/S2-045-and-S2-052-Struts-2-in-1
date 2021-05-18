@@ -14,7 +14,7 @@
                             Struts Application directory,
       -c COMMAND, --command=COMMAND
                             System Command,
-      -o OSYS, --os=OSYS    Choose OS: Linux = 1, Windows = 2
+      -o OSYS, --os=OSYS    Choose OS: Windows = 1, Linux = 2
       -l LHOST, --lhost=LHOST
                             LHOST
       -P LPORT, --lport=LPORT
