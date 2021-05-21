@@ -1,5 +1,5 @@
 # CVE-2017-5638 and CVE-2017-9793
-# S2-045-and-S2-051-Struts-2-in-1
+# S2-045-and-S2-052-Struts-2-in-1
 # Author: (m4ud)
 # Struts pwning tool!
 
@@ -24,4 +24,4 @@
       -s SHELL, --shell=SHELL
                             Shell type: 1 = powershell or bash, and 2 = msfvenom
       -x XPLOIT, --xploit=XPLOIT
-                            1 = S2-045 and 2 = S2-51
+                            1 = S2-045 and 2 = S2-52
