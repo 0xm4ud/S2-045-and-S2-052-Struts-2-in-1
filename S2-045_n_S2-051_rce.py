@@ -246,7 +246,7 @@ def main():
 	parser.add_option("-P", "--lport", dest="lport",default=9001 ,help="LPORT")
 	parser.add_option("-w", "--wport", dest="wport", default=4443, help="WPORT")
 	parser.add_option("-s", "--shell", dest="shell", help="Shell type: 1 = powershell or bash, and 2 = msfvenom")
-	parser.add_option("-x","--xploit", dest="xploit",default="1", help="1 = S2-045 and 2 = S2-51")
+	parser.add_option("-x","--xploit", dest="xploit",default="1", help="1 = S2-045 and 2 = S2-52")
 	(options, args) = parser.parse_args() 
 
 	if options.target:
