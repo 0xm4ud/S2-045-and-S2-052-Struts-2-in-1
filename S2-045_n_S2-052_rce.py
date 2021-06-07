@@ -1,6 +1,10 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 # Author (m4ud)
 # Apache Struts-045
 # CVE : 2017-5638
+
+
 from base64 import b64encode
 import sys
 import requests
